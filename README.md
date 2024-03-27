@@ -8,7 +8,7 @@
 
 Установка
 1. Склонируйте репозиторий на локальную машину:
-git clone https://github.com/your-username/simple-network-app.git
+git clone https://github.com/Morf-P/simple-network-app.git
    
 2. Перейдите в директорию проекта:
 cd simple-network-app
